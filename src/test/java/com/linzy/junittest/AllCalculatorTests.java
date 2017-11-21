@@ -19,7 +19,7 @@ import org.junit.runners.Suite;
 
 	CalculatorTest.class,
 
-	//SquareTest.class
+	SquareTest.class
 
 })
 
